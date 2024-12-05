@@ -44,3 +44,37 @@
    ```bash
    git clone https://github.com/yourusername/FantasyFitness.git
    cd FantasyFitness
+
+2. Build and Run the App:
+
+- Open the project in Android Studio.  
+- Sync Gradle and run the app on a connected device or emulator.  
+
+---
+
+### Usage
+
+- **Sign up or log in** using your email and password.  
+- **Navigate through the app** using the bottom navigation bar.  
+- **Track your activities**, log progress, and upload images to visualize your journey.  
+
+---
+
+### Contributions
+
+Contributions are welcome! If you'd like to contribute:  
+
+1. **Fork the repository.**  
+2. **Create a feature branch** (`git checkout -b feature-name`).  
+3. **Commit your changes** (`git commit -m "Description of changes"`).  
+4. **Push to the branch** (`git push origin feature-name`).  
+5. **Open a pull request.**  
+
+---
+
+### Author
+
+**Aaron Elkin**  
+Undergraduate Student at MSU  
+Focused on app development and user-centric design.  
+
